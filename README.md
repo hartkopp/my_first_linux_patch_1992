@@ -1,3 +1,4 @@
+```
 # my_first_linux_patch_1992
 Just for documentation if all my harddiscs die at the same day :-)
 
@@ -39,4 +40,4 @@ won't actually work: they did work in 0.96c, but only on a limited nr of
 IRQ's.  Patch2 has this corrected as well, so wait for it. 
 
                 Linus
-
+```
